@@ -26,4 +26,5 @@ elif choice == 3:
 else:
     print("Invalid choice")
     
-    print(2**1**2*2**3)
+    
+
